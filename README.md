@@ -6,13 +6,13 @@ Backend developer, systems engineer, professional with over 7 years of experienc
 
 ## 💚 Some about me.
 
-- Worked with api rest full, Microservices (flask and fast-api)
+- Worked with api rest full, Microservices (Flask and Fast-api)
 - Python from 2.7 to 3.11
 - Websites front-end included (Django)
-- Best Python practices, clean code (pep8)
+- Best Python practices, clean code (Pep8)
 - Version control (Git)
-- Unit Tests (pytest, unittest)
-- DDBB rel and non rel (mongo, postgres, sql, mysql)
+- Unit Tests (pytest, Unittest)
+- DDBB rel and non rel (Mongo, Postgres, Sql, Mysql)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
