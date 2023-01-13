@@ -4,6 +4,16 @@
 I have been working as developer since 2015, I love it, in short am rocking with python 🐍.
 Backend developer, systems engineer, professional with over 7 years of experience working with Python and related frameworks like Flask, FastApi and Django. I had a diploma in Big data and business analysis.
 
+## 💚 Some about me.
+
+- Worked with api rest full, Microservices (flask and fsast-api)
+- Python from 2.7 to 3.11
+- Websites front-end included (Django)
+- Best Python practices, clean code (pep8)
+- Version control (Git)
+- Unit Tests (pytest, unittest)
+- DDBB rel and non rel (mongo, postgres, sql, mysql)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivancramirez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivancramirez/" height="30" width="40" /></a>
