@@ -6,7 +6,7 @@ Backend developer, systems engineer, professional with over 7 years of experienc
 
 ## 💚 Some about me.
 
-- Worked with api rest full, Microservices (flask and fsast-api)
+- Worked with api rest full, Microservices (flask and fast-api)
 - Python from 2.7 to 3.11
 - Websites front-end included (Django)
 - Best Python practices, clean code (pep8)
